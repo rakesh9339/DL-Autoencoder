@@ -175,7 +175,7 @@ visualize_denoising(model, test_loader)
 ### OUTPUT
 
 ### Model Summary
-<img src="Model Summary.png" /><br>
+<img src="C:\Users\admin\Downloads\Model Summary.png" /><br>
 ### Training loss
 <img src="training loss.png"/><br>
 ## Original vs Noisy Vs Reconstructed Image
